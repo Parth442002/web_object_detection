@@ -8,12 +8,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.4.2",
+    "@heroicons/react": "^1.0.5",
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow/tfjs": "^3.12.0",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "fingerpose": "^0.1.0",
+    "heroicons": "^1.0.5",
     "next": "12.0.7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-webcam": "^6.0.0"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.1",
     "eslint": "7",
-    "eslint-config-next": "12.0.7"
+    "eslint-config-next": "12.0.7",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.8"
   }
 }
