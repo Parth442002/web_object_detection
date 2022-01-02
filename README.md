@@ -2,7 +2,7 @@
 # Browser based Web Detection
 
 ## introduction
-This project uses Tensorflow.js to to use a pretrained machine learning model which is trained on the ``` COCOSSD ``` database to successfully detect and name objects using the webcamera.
+This project uses Tensorflow.js pretrained machine learning model which is trained on the ``` COCOSSD ``` database to successfully detect and name objects using the webcamera.
 
 ## Direction for use:-
 
