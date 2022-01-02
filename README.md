@@ -4,6 +4,8 @@
 ## introduction
 This project uses Tensorflow.js to to use a pretrained machine learning model which is trained on the ``` COCOSSD ``` database to successfully detect and name objects using the webcamera.
 
+![image](readmeimage.gif)
+
 ## Direction for use:-
 
 - ```git clone https://github.com/Parth442002/web_object_detection.git```
